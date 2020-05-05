@@ -1,1 +1,2 @@
+brew "bash"
 brew "fswatch"
